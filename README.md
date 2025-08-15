@@ -3,7 +3,7 @@ fully work hack w/ work wifi / sounds / wifi ?
 
 Привет / hello
 
-Это полностью рабочий EFI Для ноутбука Acer TravelMate P253 
+Это полностью рабочий EFI Для ноутбука Acer TravelMate P253 для использования Hackintosh
 
 Хар-ки:
 HD 4000
