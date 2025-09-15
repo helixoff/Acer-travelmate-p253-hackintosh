@@ -14,7 +14,7 @@ fully work hack w/ work wifi, sounds
 | ``GPU``| Intel HD Graphics 4000|
 | ``Storage``| Apacer ??? 120GB|
 | ``Screen``| 15.6" 1366 x 768|
-| ``Ethernet``| Broadcom NetLink BCM57785 |
+| ``Ethernet (Not working nuh uh lil bro)``| Broadcom NetLink BCM57785 |
 | ``WiFi``| Qualcomm Atheros AR9485 (no Bluetooth)|
 | ``Audio``| ALC269 |
 | ``Keyboard``| - |
@@ -42,7 +42,7 @@ This is a fully functional EFI for the Acer TravelMate P253 laptop for use with 
 | ``GPU``| Intel HD Graphics 4000|
 | ``Storage``| Apacer ??? model 120GB|
 | ``Screen``| 15.6" 1366 x 768|
-| ``Ethernet``| Broadcom NetLink BCM57785 |
+| ``Ethernet (Not working nuh uh lil bro)``| Broadcom NetLink BCM57785 |
 | ``WiFi``| Qualcomm Atheros AR9485 (no Bluetooth)|
 | ``Audio``| ALC269 |
 | ``Keyboard``| - |
