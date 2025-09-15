@@ -1,4 +1,4 @@
-# <div align="center">Acer Travelmate P253-M</div> 
+# <div align="center">Acer Travelmate P253-M/MG</div> 
 fully work hack w/ work wifi, sounds 
 
 Привет / hello
