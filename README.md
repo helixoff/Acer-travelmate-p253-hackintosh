@@ -1,7 +1,7 @@
 # <div align="center">Acer Travelmate P253-M/MG</div> 
-fully work hack w/ work wifi, sounds 
+Fully worked EFI for Acer TravelMate P253-M/MG
 
-Привет / hello
+Привет 
 
 Это полностью рабочий EFI Для ноутбука Acer TravelMate P253 для использования Hackintosh
 
